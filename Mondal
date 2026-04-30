@@ -83,15 +83,3 @@ https://m3uplay.com/leo/live.m3u8?id=476&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=474&format=.m3u8
-#EXTINF:-1,Aaj Tak
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=1332&format=.m3u8
-#EXTINF:-1,ABP News
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=1335&format=.m3u8
-#EXTINF:-1,India TV
-#EXTVLCOPT:http-referrer="https://m3uplay.com"
-#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.m3u8?id=235&format=.m3u8
