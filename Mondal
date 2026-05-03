@@ -11,6 +11,10 @@ https://m3uplay.com/leo/live.m3u8?id=698&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=756&format=.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj",zee Bangla  cinema
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=3476&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/330px-Colors_Bangla_Cinema.png",Colors Bangla Cinema
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -63,7 +67,7 @@ https://m3uplay.com/leo/live.php?id=185&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1668&format=.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony Max HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=476&format=.m3u8
@@ -79,3 +83,7 @@ https://m3uplay.com/leo/live.php?id=1145&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=3451&format=.m3u8
+#EXTINF:-1 tvg-logo="https://www.techhive.com/wp-content/uploads/2023/10/Discovery-plus-1.png",Discovery HD
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.php?id=3444&format=.m3u8
