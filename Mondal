@@ -121,9 +121,9 @@ https://m3uplay.com/leo/live.php?id=173&format=.m3u8
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=504&format=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeE5_zzDVHXc5CHojHYjTRO89JesM9Hu5AXUv2hm3QMEcXjU96oJZE48&s=10",Abp News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeE5_zzDVHXc5CHojHYjTRO89JesM9Hu5AXUv2hm3QMEcXjU96oJZE48&s=10",Star plus
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
-https://m3uplay.com/leo/live.php?id=177&format=.m3u8
+https://m3uplay.com/leo/live.php?id=1132&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
