@@ -121,3 +121,7 @@ http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779078601~exp=1779100201~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=6be9c8c618d78957b04ea29d7b7d3ff49545193daf0700acf521fe81bf4e732b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jiostar",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba&__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
