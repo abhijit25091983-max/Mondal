@@ -26,9 +26,9 @@ https://m3uplay.com/leo/live.m3u8?id=1657&format=.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3bc4288071a532cad74816bab70acd05.png",Sony Aath
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009255&e=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=697&format=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -38,21 +38,21 @@ https://m3uplay.com/leo/live.php?id=144&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.php?id=279&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/cb/79/38/cb7938aaa6719ef75c44d1267033af30.jpg",Sony Entertainment HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009246&e=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=291&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab SD
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=154&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=471&format=.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",Sony Pal
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009273
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=474&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLd6z_6SCmHHk_A0H7Li2T0Lq6nUc3EftpA2sQsEk7r5N4RIbO7pk9w&s=10",Star Bharat SD
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=FB55C7B93D820F4648C258FF6174A481B7D43BCF&profile=pass
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,9 +76,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
 https://m3uplay.com/leo/live.m3u8?id=1668&format=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009247&e=.m3u8
+#EXTVLCOPT:http-referrer="https://m3uplay.com"
+#KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
+https://m3uplay.com/leo/live.m3u8?id=476&format=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4f1a268a8486f5b2a71ad044d9750a67.png",Colors Cineplex Bollywood
 #EXTVLCOPT:http-referrer="https://m3uplay.com"
 #KODIPROP:inputstream.adaptive.http-referrer="https://m3uplay.com"
@@ -115,13 +115,9 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCsQchvXfbA2SayEz0b4NIO7_joTko_kaxnS8QV8Ky23zmmMebpfqhCY&s=10",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba&__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png",Colors Rishtey
