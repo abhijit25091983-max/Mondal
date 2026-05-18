@@ -129,3 +129,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0449d593e6bb5a81a7ab5c5986e5940b:c0abc7e159389031e53a4b8dfa53d141
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1779091233~exp=1779112833~acl=/*~hmac=73a99a502a4595bcbef3592ffbbbc0e421059baf99e19db1b33f4f3b4674628d&__hdnea__=st=1779091233~exp=1779112833~acl=/*~hmac=73a99a502a4595bcbef3592ffbbbc0e421059baf99e19db1b33f4f3b4674628d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Jiostar",Colors Rishtey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/WDVLive/index.mpd?__hdnea__=st=1779102914~exp=1779124514~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=d2e20dd2b26c8a4a16a1a5b72dfb977ade37008799932a90f91877de86157f6b&__hdnea__=st=1779102914~exp=1779124514~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=d2e20dd2b26c8a4a16a1a5b72dfb977ade37008799932a90f91877de86157f6b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
