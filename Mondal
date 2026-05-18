@@ -117,8 +117,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRabkvpUQYvARPREIgPYqpGJE7U_d_OQWy1KVr9CTEz6zwYliobxZ6uqx&s=10",Star Plus HD
 http://rkdyiptv-tatatv-179days.wasmer.app/play.php?id=902
-#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Jiostar",Sony SAB HD
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0449d593e6bb5a81a7ab5c5986e5940b:c0abc7e159389031e53a4b8dfa53d141
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1779084035~exp=1779105635~acl=/*~hmac=63a62a3f12669da8cb6c67b87f320746989bb3c101c6cd10c107b7949a24a5dc&__hdnea__=st=1779084035~exp=1779105635~acl=/*~hmac=63a62a3f12669da8cb6c67b87f320746989bb3c101c6cd10c107b7949a24a5dc
+#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779078601~exp=1779100201~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=6be9c8c618d78957b04ea29d7b7d3ff49545193daf0700acf521fe81bf4e732b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
