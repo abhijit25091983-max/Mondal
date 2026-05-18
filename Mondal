@@ -138,3 +138,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/WDVLive/index.mpd?__hdnea__=st=1779099409~exp=1779121009~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=1c595c28fdb70c570bc88fe3e0cbe5f9622cef963947ff43c33c0f3d53e99b53&__hdnea__=st=1779099409~exp=1779121009~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=1c595c28fdb70c570bc88fe3e0cbe5f9622cef963947ff43c33c0f3d53e99b53|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba&__hdnea__=st=1779093914~exp=1779115514~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=9de7a47af8a3aeecd0a1d68b6bd699fda8216987ecb697faf984d05fa5d3afba|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
