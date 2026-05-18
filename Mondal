@@ -134,3 +134,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd
 https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/WDVLive/index.mpd?__hdnea__=st=1779102914~exp=1779124514~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=d2e20dd2b26c8a4a16a1a5b72dfb977ade37008799932a90f91877de86157f6b&__hdnea__=st=1779102914~exp=1779124514~acl=/bpk-tv/ColorsRishtey_BTS/WDVLive/*~hmac=d2e20dd2b26c8a4a16a1a5b72dfb977ade37008799932a90f91877de86157f6b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTINF:-1 tvg-id="1136" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LOGO_HD/image.png" group-title="Jiostar",Star Utsav Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/WDVLive/index.mpd?__hdnea__=st=1779099409~exp=1779121009~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=1c595c28fdb70c570bc88fe3e0cbe5f9622cef963947ff43c33c0f3d53e99b53&__hdnea__=st=1779099409~exp=1779121009~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=1c595c28fdb70c570bc88fe3e0cbe5f9622cef963947ff43c33c0f3d53e99b53|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
