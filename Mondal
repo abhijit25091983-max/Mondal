@@ -161,3 +161,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/WDVLive/index.mpd?__hd
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779197402~exp=1779219002~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=461f9468205420acb45577cd69df7f0d18ea9c11894aca2100f9d06520439e58|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0449d593e6bb5a81a7ab5c5986e5940b:c0abc7e159389031e53a4b8dfa53d141
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony Sab
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1779192034~exp=1779213634~acl=/*~hmac=f598cfaa5ee4fbd951e7e72631bc7be234dfb8cdddc950e2bb83c49029e50cb1&__hdnea__=st=1779192034~exp=1779213634~acl=/*~hmac=f598cfaa5ee4fbd951e7e72631bc7be234dfb8cdddc950e2bb83c49029e50cb1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
