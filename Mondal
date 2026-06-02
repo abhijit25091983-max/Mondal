@@ -157,3 +157,9 @@ https://yowaimo.in/ZioGarmTara-JTV/279/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76
+
+
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76
