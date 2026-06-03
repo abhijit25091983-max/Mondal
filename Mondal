@@ -152,20 +152,10 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejdGL3tER70Fb7eJRFJO1z6ulzwnxu-l0dEYALHqSHOAbjge8Jtygiqte&s=10",Colors Rishtey
 https://yowaimo.in/ZioGarmTara-JTV/279/manifest.mpd
 
-#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-name="Star Plus HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://img.media.jio.com/tvpimages/79/39/301998_1753187048300_l_medium.jpg",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 
 
-#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76
-
-#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiostar",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76&__hdnea__=st=1780437641~exp=1780459241~acl=/*~hmac=04ddfc8774291dbd5136c7a15b61c2e0a03feaf13e0f62e87bbff526ec24ba76
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
