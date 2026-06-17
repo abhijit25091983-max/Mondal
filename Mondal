@@ -1,5 +1,285 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Jio-HD",Colors HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=144&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Jio-HD",Colors Cineplex HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Jio-HD",Colors Infinity HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1158&format=.m3u8
+
+#EXTINF:-1 tvg-id="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-logo="" group-title="Jio",Colors Rishtey
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Jio",Colors Cineplex Superhits
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1450&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Jio",Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1763&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Jio-HD",MTV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1145&format=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&TV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=472&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&TV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=415&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&Pictures HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=185&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",&Xplor HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=1668&format=.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Jio-HD",Zee TV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=167&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Jio-HD",Zee Cinema HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=165&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Jio-HD",History TV 18 HD English
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=146&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Jio-HD",History TV 18 HD Hindi
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=578&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Jio-HD",TLC HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=479&format=.m3u8
+
+
+EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Jio-HD",travelxp HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=164&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Jio-HD",Discovery HD
+#EXTVLCOPT:http-referrer="https://mini.allinonereborn.fun"
+#KODIPROP:inputstream.adaptive.http-referrer="https://mini.allinonereborn.fun"
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_463.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="Jio-HD",Discovery ID HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3434&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Jio-HD",Animal Planet HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3451&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Jio-HD",Sony BBC Earth HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=821&format=.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Pix HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=762&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Liv HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=155&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 1 HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=162&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 2 HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=891&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 3 HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=892&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-HD",Sony Sports 5 HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=155&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Jio-HD",FTV HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=1598&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="Jio-Specials",Jio Sports HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=889&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Jio-Specials",Jio Events HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=871&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Jio-Specials",Jio Exclusive HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=866&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Jio-Specials",Jio Specials HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3366&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Jio-Specials",Jio Specials HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=2230&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Anmol Cinema
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=415&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Anmol Cinema 2
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=2761&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",TV Asia
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3071&format=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Jio-HD",Sun Neo HD
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3088&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Jio",MTV
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=248&format=.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Jio-Hindi Ent",Colors TV
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=1368&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Colors Cineplex
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=482&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Z TV
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+ https://techtraveleat.in/leo/live.m3u8?id=1351&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Zee Cinema
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=484&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Big Magic
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=1359&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",&Pictures
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.php?id=1839&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Anmol TV
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=473&format=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Jio-Hindi Ent",Epic
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3382&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Epic Bharat
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3383&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Epic Bhojpuri
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3384&format=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Nazara
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+ https://techtraveleat.in/leo/live.m3u8?id=3383&format=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Swastik Stories
+#EXTVLCOPT:http-referrer="https://techtraveleat.in"
+#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
+https://techtraveleat.in/leo/live.m3u8?id=3401&format=.m3u8
+
+
+=======================================Jio DD=======================================
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="Jio-DD",DD National
 #EXTVLCOPT:http-referrer="https://techtraveleat.in"
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
@@ -86,49 +366,4 @@ https://techtraveleat.in/leo/live.m3u8?id=474&format=.m3u8
 #KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
 https://techtraveleat.in/leo/live.m3u8?id=1393&format=.m3u8
 
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=484&format=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Big Magic
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=1359&format=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",&Pictures
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.php?id=1839&format=.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Anmol TV
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=473&format=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Jio-Hindi Ent",Epic
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=3382&format=.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Epic Bharat
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=3383&format=.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio",Epic Bhojpuri
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=3384&format=.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Nazara
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
- https://techtraveleat.in/leo/live.m3u8?id=3383&format=.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jio-Hindi Ent",Swastik Stories
-#EXTVLCOPT:http-referrer="https://techtraveleat.in"
-#KODIPROP:inputstream.adaptive.http-referrer="https://techtraveleat.in"
-https://techtraveleat.in/leo/live.m3u8?id=3401&format=.m3u8
 
