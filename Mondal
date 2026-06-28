@@ -123,5 +123,5 @@ https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/1132/index.mpd|User-
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/79/39/301998_1753187048300_l_medium.jpg",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license
 https://terminal-jio.07in.workers.dev/live/le-beta/maar-moj/1132/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Jioplus) ExoPlayerLib/2.11.7
