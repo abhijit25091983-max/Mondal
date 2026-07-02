@@ -55,3 +55,18 @@ https://alex4528.site/jplus/lOlll0OLLIOLiiL1LIlllO/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/lO0IOIOLO1i1iiL1lOi1lO/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/oOOLoiI1oiOL00o1LIio/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",Colors Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/LI0I00L0LI0IiiiLLIi100/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/LIi1LILolOOLiiI1LIil/manifest.mpd
