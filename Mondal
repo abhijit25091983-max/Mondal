@@ -128,8 +128,6 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009258&e=.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009249
 
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Wah
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
@@ -171,97 +169,6 @@ https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccd
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Plus
-#EXTVLCOPT:http-referrer=https://bhoomtv.org
-https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Bharat
-#EXTVLCOPT:http-referrer=https://bhoomtv.org
-https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Yupp USA
-#EXTVLCOPT:http-referrer=https://bhoomtv.org
-https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors India
-#EXTVLCOPT:http-referrer=https://bhoomtv.org
-https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
-
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://img.media.jio.com/tvpimages/79/39/301998_1753187047337_l_medium.jpg" group-title="Entertainment",Star Plus HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1132/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1117" tvg-name="Star Suvarna" tvg-logo="https://img.media.jio.com/tvpimages/87/78/302080_1753202974043_l_medium.jpg" group-title="Entertainment",Star Suvarna
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1117/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1127" tvg-name="Star Bharat" tvg-logo="https://img.media.jio.com/tvpimages/49/44/302082_1753203941369_l_medium.jpg" group-title="Entertainment",Star Bharat
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1127/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1116" tvg-name="Star Plus" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189750742_l_medium.jpg" group-title="Entertainment",Star Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1116/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/302085_1753204417273_l_medium.jpg" group-title="Entertainment",Star Vijay HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/368/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://img.media.jio.com/tvpimages/60/42/302087_1753199814927_l_medium.jpg" group-title="Entertainment",Star Bharat HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/931/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1143" tvg-name="STAR Utsav" tvg-logo="https://img.media.jio.com/tvpimages/34/40/302086_1753186825045_l_medium.jpg" group-title="Entertainment",STAR Utsav
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1143/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://img.media.jio.com/tvpimages/21/80/302088_1753191193123_l_medium.jpg" group-title="Entertainment",Disney International HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1375/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1121" tvg-name="Star Pravah" tvg-logo="https://img.media.jio.com/tvpimages/80/61/302090_1753198756962_l_medium.jpg" group-title="Entertainment",Star Pravah
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1121/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://img.media.jio.com/tvpimages/15/60/302095_1753203027479_l_medium.jpg" group-title="Entertainment",Vijay Super HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/3266/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://img.media.jio.com/tvpimages/32/30/302091_1753204308282_l_medium.jpg" group-title="Entertainment",Star Pravah HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/336/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1130" tvg-name="Star Vijay" tvg-logo="https://img.media.jio.com/tvpimages/1/40/302093_1753203139442_l_medium.jpg" group-title="Entertainment",Star Vijay
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1130/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://img.media.jio.com/tvpimages/90/89/302097_1753202437913_l_medium.jpg" group-title="Entertainment",Star Kiran
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/3267/
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076
-https://jiotvpllive.cdn.jio.com/bpk-tv/
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?partner=jio-stb|Cookie=__hdnea__=st=1788705456~exp=1788727056~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=c7ff842254369cb41c4a6d835898b1e0e64cb69b43625e347b2f3d36a00b46e2&User-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv&drmScheme=clearkey&drmLicense=https://streamflexsmm.in/license/144
