@@ -1,9 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Jiotv+ ♨️Entertainment", Star Plus HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1790262197~exp=1790283797~acl=/*~hmac=6cb4ce0d9be3afff0d125621a65d0cca3e9787628c775a3781060ba0f592043b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 group-title="-",Zee-Bangla HD
+http://103.151.60.162:2122/play/a02p/index.m3u8
+
+#EXTINF:-1 group-title="-",Zee-Bangla
+http://103.151.60.162:2122/play/a011/index.m3u8
+
+#EXTINF:-1 group-title="-",Star Jolsha
+http://103.151.60.162:2122/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="-",Colors Bangla HD
+http://103.151.60.162:2122/play/a02o/index.m3u8
+
+#EXTINF:-1 group-title="-",Jolsha Movie
+http://103.151.60.162:2122/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="-",STAR BANGLA
+http://103.151.60.162:2122/play/a0f5/index.m3u8
+
+#EXTINF:-1 group-title="-",Sony att
+http://103.151.60.162:2122/play/a023/index.m3u8
+
+#EXTINF:-1 group-title="-",Bangla Cenama
+http://103.151.60.162:2122/play/a02m/index.m3u8
+
+#EXTINF:-1 group-title="-",Colors HD
+http://103.151.60.162:2122/play/a02q/index.m3u8
+
+#EXTINF:-1 group-title="-",STAR Plus HD
+http://103.151.60.162:2122/play/a0fo/index.m3u8
+
+#EXTINF:-1 group-title="-",&tv
+http://103.151.60.162:2122/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="-",Sony Set
+http://103.151.60.162:2122/play/a01o/index.m3u8
+
+#EXTINF:-1 group-title="-",Sony Sub HD
+http://103.151.60.162:2122/play/a01q/index.m3u8
+
+#EXTINF:-1 group-title="-",Sony set ent
+http://103.151.60.162:2122/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="-",Zee-TV
+http://103.151.60.162:2122/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="-",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8
+
+#EXTINF:-1 group-title="-",SonyMaxHD
+http://103.151.60.162:2122/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="-",Star Gold
+http://103.151.60.162:2122/play/a01n/index.m3u8
+
+#EXTINF:-1 group-title="-",Star-Gold-2
+http://103.151.60.162:2122/play/a01v/index.m3u8
+
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://103.151.60.162:2122/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="-",SET-MAX
+http://103.151.60.162:2122/play/a031/index.m3u8
+
+#EXTINF:-1 group-title="-",HitsMovie
+http://103.151.60.162:2122/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="-",Animal Planet
+http://103.151.60.162:2122/play/a01l/index.m3u8
+
+#EXTINF:-1 group-title="-",CartonNetwork
+http://103.151.60.162:2122/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="-",Discovery
+http://103.151.60.162:2122/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="-",Discovery Science
+http://103.151.60.162:2122/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="-",Discovery kids
+http://103.151.60.162:2122/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title="-",Disen Jr
+http://103.151.60.162:2122/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="-",ENter 10 Bangla
+http://103.151.60.162:2122/play/a0fa/index.m3u8
+
+#EXTINF:-1 group-title="-",History 18
+http://103.151.60.162:2122/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="-",NET GIO
+http://103.151.60.162:2122/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title="-",NGC Wild
+http://103.151.60.162:2122/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="-",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="-",nick jr
+http://103.151.60.162:2122/play/a00s/index.m3u8
