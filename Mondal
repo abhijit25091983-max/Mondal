@@ -101,3 +101,10 @@ http://103.151.60.162:2122/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="-",nick jr
 http://103.151.60.162:2122/play/a00s/index.m3u8
+
+
+#EXTINF:-1 tvg-id="154" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=154
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=154
