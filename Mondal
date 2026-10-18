@@ -12,11 +12,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=144
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=167
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=167
-#EXTINF:-1 tvg-id="202" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=202
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=202
 #EXTINF:-1 tvg-id="279" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="Entertainment",Colors Rishtey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=279
@@ -52,56 +47,11 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=473
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=474
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=474
-#EXTINF:-1 tvg-id="528" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment",DD India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=528
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=528
-#EXTINF:-1 tvg-id="533" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment",Raj Pariwar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=533
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=533
-#EXTINF:-1 tvg-id="536" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment",DD Madhya Pradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=536
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=536
-#EXTINF:-1 tvg-id="538" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Entertainment",DD Rajasthan (Jaipur)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=538
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=538
-#EXTINF:-1 tvg-id="539" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Entertainment",DD Bihar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=539
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=539
-#EXTINF:-1 tvg-id="540" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Entertainment",DD Uttar Pradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=540
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=540
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=931
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=931
-#EXTINF:-1 tvg-id="963" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment",Arre HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=963
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=963
-#EXTINF:-1 tvg-id="978" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" group-title="Entertainment",TEST1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=978
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=978
-#EXTINF:-1 tvg-id="979" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png" group-title="Entertainment",TEST2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=979
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=979
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1132
@@ -112,26 +62,11 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1132
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1143
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1143
-#EXTINF:-1 tvg-id="1328" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png" group-title="Entertainment",DD Arunprabha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1328
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1328
-#EXTINF:-1 tvg-id="1329" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png" group-title="Entertainment",DD Gyandarshan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1329
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1329
 #EXTINF:-1 tvg-id="1351" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTV.png" group-title="Entertainment",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1351
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1351
-#EXTINF:-1 tvg-id="1359" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Entertainment",Big Magic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1359
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1359
 #EXTINF:-1 tvg-id="1368" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1368
@@ -142,46 +77,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1368
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1393
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1393
-#EXTINF:-1 tvg-id="1476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST12_HD.png" group-title="Entertainment",TEST12 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1476
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1476
-#EXTINF:-1 tvg-id="1834" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment",Green Chillies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1834
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1834
-#EXTINF:-1 tvg-id="1961" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment",Shemaroo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1961
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1961
-#EXTINF:-1 tvg-id="2077" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment",Gangaur
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2077
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2077
-#EXTINF:-1 tvg-id="2078" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment",Shemaroo Umang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2078
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2078
-#EXTINF:-1 tvg-id="3022" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Entertainment",Unique TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3022
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3022
-#EXTINF:-1 tvg-id="3028" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" group-title="Entertainment",BH OTT India Fest
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3028
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3028
-#EXTINF:-1 tvg-id="3029" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="Entertainment",Bollywood Masala
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3029
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3029
 #EXTINF:-1 tvg-id="3434" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="Entertainment",Investigation Discovery HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3434
@@ -202,11 +97,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=156
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=165
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=165
-#EXTINF:-1 tvg-id="182" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies",B4U Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=182
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=182
 #EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Movies",And Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=185
@@ -247,11 +137,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=487
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=488
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=488
-#EXTINF:-1 tvg-id="809" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies",Maha Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=809
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=809
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1113
@@ -262,11 +147,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1113
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1119
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1119
-#EXTINF:-1 tvg-id="1295" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies",B4U Kadak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1295
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1295
 #EXTINF:-1 tvg-id="1450" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies",Colors Cineplex Superhit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1450
@@ -302,11 +182,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1839
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2761
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2761
-#EXTINF:-1 tvg-id="3060" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hiff_Movies.png" group-title="Movies",Hiff Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3060
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3060
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3096
@@ -327,11 +202,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3098
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3418
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3418
-#EXTINF:-1 tvg-id="183" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=183
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=183
 #EXTINF:-1 tvg-id="248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Music",MTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=248
@@ -372,51 +242,11 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=592
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1145
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1145
-#EXTINF:-1 tvg-id="1286" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1286
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1286
-#EXTINF:-1 tvg-id="1411" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music",SongDew TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1411
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1411
-#EXTINF:-1 tvg-id="1694" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryana_Beats.png" group-title="Music",Haryana Beats
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1694
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1694
-#EXTINF:-1 tvg-id="2063" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music",RS Bharat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2063
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2063
-#EXTINF:-1 tvg-id="2064" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music",Merchant Records
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2064
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2064
-#EXTINF:-1 tvg-id="2252" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music",Desi Music Station
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2252
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2252
-#EXTINF:-1 tvg-id="2751" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="Music",Saga Music Haryanvi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2751
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2751
 #EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2753
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2753
-#EXTINF:-1 tvg-id="2936" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" group-title="Music",Oye Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2936
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2936
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=317
@@ -447,16 +277,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=625
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=672
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=672
-#EXTINF:-1 tvg-id="687" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="Bengali",News Time TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=687
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=687
-#EXTINF:-1 tvg-id="690" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="Bengali",DD Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=690
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=690
 #EXTINF:-1 tvg-id="697" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Bengali",Sony aath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=697
@@ -522,16 +342,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1345
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1369
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1369
-#EXTINF:-1 tvg-id="1561" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Bengali",Sristi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1561
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1561
-#EXTINF:-1 tvg-id="1605" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Bhakti.png" group-title="Bengali",Bangla Bhakti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1605
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1605
 #EXTINF:-1 tvg-id="1612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="Bengali",Tara TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1612
@@ -542,16 +352,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1612
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1657
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1657
-#EXTINF:-1 tvg-id="1667" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Bengali",Rongeen TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1667
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1667
-#EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1669
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1669
 #EXTINF:-1 tvg-id="1725" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png" group-title="Bengali",24Hrs TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1725
@@ -572,46 +372,16 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1891
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1977
-#EXTINF:-1 tvg-id="2027" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Bengali",Raatdin Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2027
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2027
-#EXTINF:-1 tvg-id="2184" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="Bengali",U Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2184
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2184
-#EXTINF:-1 tvg-id="2188" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Globe_TV.png" group-title="Bengali",Globe TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2188
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2188
 #EXTINF:-1 tvg-id="2228" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Bengali",Samay Kolkata
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2228
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2228
-#EXTINF:-1 tvg-id="2354" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" group-title="Bengali",Friends TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2354
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2354
 #EXTINF:-1 tvg-id="2780" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/R_Bangla.png" group-title="Bengali",R Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2780
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2780
-#EXTINF:-1 tvg-id="2914" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" group-title="Bengali",BHI Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2914
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2914
-#EXTINF:-1 tvg-id="2933" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKTV_Bangla.png" group-title="Bengali",NK TV Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2933
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2933
 #EXTINF:-1 tvg-id="3005" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Bengali",Rupashi Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3005
@@ -622,16 +392,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3005
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3006
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3006
-#EXTINF:-1 tvg-id="3008" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maya_Tv.png" group-title="Bengali",Maya Tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3008
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3008
-#EXTINF:-1 tvg-id="3019" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png" group-title="Bengali",Bangla Jago
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3019
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3019
 #EXTINF:-1 tvg-id="3424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" group-title="Bengali",SONY YAY Bengali
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3424
@@ -657,11 +417,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=554
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=559
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=559
-#EXTINF:-1 tvg-id="815" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=815
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=815
 #EXTINF:-1 tvg-id="816" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="Kids",Cartoon Network Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=816
@@ -702,11 +457,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1392
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=2774
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=2774
-#EXTINF:-1 tvg-id="3385" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Gubbare
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3385
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=3385
 #EXTINF:-1 tvg-id="3436" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="Kids",Cartoon Network HD+ Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3436
@@ -727,26 +477,11 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=575
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=578
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=578
-#EXTINF:-1 tvg-id="580" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment",DD bharati
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=580
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=580
-#EXTINF:-1 tvg-id="583" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment",DD Kisan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=583
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=583
 #EXTINF:-1 tvg-id="821" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=821
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=821
-#EXTINF:-1 tvg-id="871" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment",Jio Events HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=871
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=871
 #EXTINF:-1 tvg-id="3444" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=3444
