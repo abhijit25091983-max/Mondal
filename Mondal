@@ -8,6 +8,12 @@
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=625
 
+#EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Bengali",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1977
+
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bengali",Aakash Aath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=698
@@ -32,11 +38,6 @@ https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=756
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1657
 
-#EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Bengali",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1977
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
