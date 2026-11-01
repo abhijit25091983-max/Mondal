@@ -2,41 +2,53 @@
 #
 # ======= CATEGORY: ENGLISH =======
 #
-#EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBangla.png" group-title="Bengali",Zee Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=625
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=625
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://223.25.71.211:5001/jtvimage/ColorsHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/144
+http://223.25.71.211:5001/live/mpd/144
+
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="http://223.25.71.211:5001/jtvimage/StarPlusHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/1132
+http://223.25.71.211:5001/live/mpd/1132
 
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Bengali",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1977
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/1977
+http://223.25.71.211:5001/live/mpd/1977
 
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bengali",Aakash Aath
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=698
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=698
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/698
+http://223.25.71.211:5001/live/mpd/698
 
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Bengali",Colors Bangla SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1369
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1369
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/1369
+http://223.25.71.211:5001/live/mpd/1369
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Bengali",Colors Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=756
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=756
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/756
+http://223.25.71.211:5001/live/mpd/756
 
-#EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bengali",Colors Bangla Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1657
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1657
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/144
+http://223.25.71.211:5001/live/mpd/144
 
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
