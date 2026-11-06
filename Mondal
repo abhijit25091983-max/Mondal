@@ -1,18 +1,16 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="9504796" tvg-name="Zee Bangla HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88961a82b166467e8d55cd7c595cfb35:017fac173777169993dcc623171a8623
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd
+
+
 #EXTINF:-1 tvg-id="154" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=154
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41&__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-
-
-#EXTINF:-1 tvg-id="1977" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1793987888~exp=1793991488~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=80fdf6bac63802cddc3e6cca5fa8861de5079b7139591694bc21f990fb9da91a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1793987888~exp=1793991488~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=80fdf6bac63802cddc3e6cca5fa8861de5079b7139591694bc21f990fb9da91a&__hdnea__=st=1793987888~exp=1793991488~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=80fdf6bac63802cddc3e6cca5fa8861de5079b7139591694bc21f990fb9da91a
