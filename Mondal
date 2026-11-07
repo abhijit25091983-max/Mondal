@@ -1,11 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1977" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1794002289~exp=1794005889~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=4c97ac5c9b2e768413bb46da2569f7b44b0b0c7043030d021da0209d2b37567a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1794002289~exp=1794005889~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=4c97ac5c9b2e768413bb46da2569f7b44b0b0c7043030d021da0209d2b37567a&__hdnea__=st=1794002289~exp=1794005889~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=4c97ac5c9b2e768413bb46da2569f7b44b0b0c7043030d021da0209d2b37567a
 
-
-#EXTINF:-1 tvg-id="9504796" tvg-name="Zee Bangla HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0" group-title="Entertainment",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88961a82b166467e8d55cd7c595cfb35:017fac173777169993dcc623171a8623
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd
 
 
 #EXTINF:-1 tvg-id="154" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB SD
