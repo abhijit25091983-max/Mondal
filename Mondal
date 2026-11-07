@@ -1,11 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1977" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1977
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1794009487~exp=1794013087~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=f9ba2a45cb639d03c81d061ad5b7d925a0c9864e1f91a6c93a17c94cc5ab1bed"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1794009487~exp=1794013087~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=f9ba2a45cb639d03c81d061ad5b7d925a0c9864e1f91a6c93a17c94cc5ab1bed&__hdnea__=st=1794009487~exp=1794013087~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=f9ba2a45cb639d03c81d061ad5b7d925a0c9864e1f91a6c93a17c94cc5ab1bed
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 
 
 
